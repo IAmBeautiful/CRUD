@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>HelloMVC</name>
 	
-	<!-- this is test comment for git -->
+	<!-- this is test comment for git NEW COMMIT-->
 
     <properties>
         <java-version>1.8</java-version>
